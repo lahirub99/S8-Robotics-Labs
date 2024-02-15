@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/dynamixel_sdk_examples/share/roseus/ros/dynamixel_sdk_examples/srv/GetPosition.l

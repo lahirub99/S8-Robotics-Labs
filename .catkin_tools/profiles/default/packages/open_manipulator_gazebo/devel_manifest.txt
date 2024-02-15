@@ -1,0 +1,6 @@
+manipulator/open_manipulator_simulations/open_manipulator_gazebo
+/home/lahiru/robotics/devel/.private/open_manipulator_gazebo/cmake.lock /home/lahiru/robotics/devel/./cmake.lock
+/home/lahiru/robotics/devel/.private/open_manipulator_gazebo/lib/open_manipulator_gazebo/omx_gripper_sub_publisher /home/lahiru/robotics/devel/lib/open_manipulator_gazebo/omx_gripper_sub_publisher
+/home/lahiru/robotics/devel/.private/open_manipulator_gazebo/lib/pkgconfig/open_manipulator_gazebo.pc /home/lahiru/robotics/devel/lib/pkgconfig/open_manipulator_gazebo.pc
+/home/lahiru/robotics/devel/.private/open_manipulator_gazebo/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig.cmake /home/lahiru/robotics/devel/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig.cmake
+/home/lahiru/robotics/devel/.private/open_manipulator_gazebo/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig-version.cmake /home/lahiru/robotics/devel/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig-version.cmake

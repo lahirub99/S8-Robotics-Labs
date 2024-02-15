@@ -1,0 +1,5 @@
+Symlinking /home/lahiru/robotics/devel/lib/libdynamixel_sdk.so
+Symlinking /home/lahiru/robotics/devel/lib/python2.7/dist-packages/dynamixel_sdk/__init__.py
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/lahiru/robotics/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+Symlinking /home/lahiru/robotics/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake

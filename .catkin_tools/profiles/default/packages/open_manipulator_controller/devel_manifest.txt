@@ -1,0 +1,6 @@
+manipulator/open_manipulator/open_manipulator_controller
+/home/lahiru/robotics/devel/.private/open_manipulator_controller/cmake.lock /home/lahiru/robotics/devel/./cmake.lock
+/home/lahiru/robotics/devel/.private/open_manipulator_controller/lib/pkgconfig/open_manipulator_controller.pc /home/lahiru/robotics/devel/lib/pkgconfig/open_manipulator_controller.pc
+/home/lahiru/robotics/devel/.private/open_manipulator_controller/lib/open_manipulator_controller/open_manipulator_controller /home/lahiru/robotics/devel/lib/open_manipulator_controller/open_manipulator_controller
+/home/lahiru/robotics/devel/.private/open_manipulator_controller/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake /home/lahiru/robotics/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake
+/home/lahiru/robotics/devel/.private/open_manipulator_controller/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig-version.cmake /home/lahiru/robotics/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig-version.cmake

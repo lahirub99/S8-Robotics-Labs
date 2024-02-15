@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lahiru/robotics/devel/.private/dynamixel_sdk/setup.sh

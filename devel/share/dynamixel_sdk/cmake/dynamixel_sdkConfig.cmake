@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake

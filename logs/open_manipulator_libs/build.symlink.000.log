@@ -1,0 +1,4 @@
+Symlinking /home/lahiru/robotics/devel/lib/libopen_manipulator_libs.so
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/open_manipulator_libs.pc
+Symlinking /home/lahiru/robotics/devel/share/open_manipulator_libs/cmake/open_manipulator_libsConfig-version.cmake
+Symlinking /home/lahiru/robotics/devel/share/open_manipulator_libs/cmake/open_manipulator_libsConfig.cmake

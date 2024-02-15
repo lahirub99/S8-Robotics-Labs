@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/open_manipulator_msgs/share/open_manipulator_msgs/cmake/open_manipulator_msgsConfig-version.cmake

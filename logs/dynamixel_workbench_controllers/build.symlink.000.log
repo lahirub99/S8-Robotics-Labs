@@ -1,0 +1,5 @@
+Symlinking /home/lahiru/robotics/devel/lib/dynamixel_workbench_controllers/find_dynamixel
+Symlinking /home/lahiru/robotics/devel/lib/dynamixel_workbench_controllers/dynamixel_workbench_controllers
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/dynamixel_workbench_controllers.pc
+Symlinking /home/lahiru/robotics/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig-version.cmake
+Symlinking /home/lahiru/robotics/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig.cmake

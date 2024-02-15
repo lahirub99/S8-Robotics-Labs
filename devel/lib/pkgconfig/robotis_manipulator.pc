@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/robotis_manipulator/lib/pkgconfig/robotis_manipulator.pc

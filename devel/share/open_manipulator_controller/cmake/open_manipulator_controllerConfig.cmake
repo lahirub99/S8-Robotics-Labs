@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/open_manipulator_controller/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake

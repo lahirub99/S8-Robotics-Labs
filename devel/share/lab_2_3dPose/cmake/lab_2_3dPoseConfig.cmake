@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/lab_2_3dPose/share/lab_2_3dPose/cmake/lab_2_3dPoseConfig.cmake

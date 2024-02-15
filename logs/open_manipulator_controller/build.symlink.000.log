@@ -1,0 +1,4 @@
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/open_manipulator_controller.pc
+Symlinking /home/lahiru/robotics/devel/lib/open_manipulator_controller/open_manipulator_controller
+Symlinking /home/lahiru/robotics/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake
+Symlinking /home/lahiru/robotics/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig-version.cmake

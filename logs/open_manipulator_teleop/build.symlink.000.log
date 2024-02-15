@@ -1,0 +1,5 @@
+Symlinking /home/lahiru/robotics/devel/lib/open_manipulator_teleop/open_manipulator_teleop_keyboard
+Symlinking /home/lahiru/robotics/devel/lib/open_manipulator_teleop/open_manipulator_teleop_joystick
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/open_manipulator_teleop.pc
+Symlinking /home/lahiru/robotics/devel/share/open_manipulator_teleop/cmake/open_manipulator_teleopConfig-version.cmake
+Symlinking /home/lahiru/robotics/devel/share/open_manipulator_teleop/cmake/open_manipulator_teleopConfig.cmake

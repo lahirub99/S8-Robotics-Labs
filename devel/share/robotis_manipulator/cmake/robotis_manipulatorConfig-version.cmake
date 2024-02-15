@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake

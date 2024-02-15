@@ -1,0 +1,6 @@
+devel_space: /home/lahiru/robotics/devel
+install: false
+install_space: /home/lahiru/robotics/install
+profile: default
+source_space: /home/lahiru/robotics/src
+workspace: /home/lahiru/robotics
