@@ -1,0 +1,8 @@
+prefix=/home/lahiru/robotics/install
+
+Name: lab_4_jointspacecontrol
+Description: Description of lab_4_jointspacecontrol
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

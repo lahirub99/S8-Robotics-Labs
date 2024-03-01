@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/lab_5_taskspacecontrol/lib/pkgconfig/lab_5_taskspacecontrol.pc

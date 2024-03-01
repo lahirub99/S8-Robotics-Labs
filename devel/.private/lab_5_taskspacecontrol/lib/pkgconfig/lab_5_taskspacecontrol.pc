@@ -1,0 +1,8 @@
+prefix=/home/lahiru/robotics/devel/.private/lab_5_taskspacecontrol
+
+Name: lab_5_taskspacecontrol
+Description: Description of lab_5_taskspacecontrol
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

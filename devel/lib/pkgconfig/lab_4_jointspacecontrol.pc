@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/lab_4_jointspacecontrol/lib/pkgconfig/lab_4_jointspacecontrol.pc

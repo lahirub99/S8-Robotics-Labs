@@ -1,0 +1,5 @@
+Linked: (/home/lahiru/robotics/devel/.private/dynamixel_workbench_operators/lib/pkgconfig/dynamixel_workbench_operators.pc, /home/lahiru/robotics/devel/lib/pkgconfig/dynamixel_workbench_operators.pc)
+Linked: (/home/lahiru/robotics/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/joint_operator, /home/lahiru/robotics/devel/lib/dynamixel_workbench_operators/joint_operator)
+Linked: (/home/lahiru/robotics/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/wheel_operator, /home/lahiru/robotics/devel/lib/dynamixel_workbench_operators/wheel_operator)
+Linked: (/home/lahiru/robotics/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake, /home/lahiru/robotics/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake)
+Linked: (/home/lahiru/robotics/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake, /home/lahiru/robotics/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake)
