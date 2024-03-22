@@ -1,0 +1,8 @@
+prefix=/home/lahiru/robotics/install
+
+Name: lab_6_jointTrajectoryPlanner
+Description: Description of lab_6_jointTrajectoryPlanner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

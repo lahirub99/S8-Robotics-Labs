@@ -73,7 +73,25 @@ if __name__ == "__main__":
         print("Activation failed")
 
     if move_in_task_space(0.134, 0.134, 0.241, 2.0):
-        print("Successfully moved")
+        print("Successfully moved to x: 0.134, y: 0.134, z: 0.241")
+    else:
+        print("Failed to move")
+    time.sleep(3.0)
+
+    if move_in_task_space(0.0, 0.134, 0.241, 2.0):
+        print("Successfully moved to x: 0.0, y: 0.134, z: 0.241")
+    else:
+        print("Failed to move")    
+    time.sleep(3.0)
+
+    if move_in_task_space(0.134, 0.2, 0.241, 2.0):
+        print("Successfully moved to x: 0.134, y: 0.2, z: 0.241")
+    else:
+        print("Failed to move")
+    time.sleep(3.0)
+
+    if move_in_task_space(0.2, 0.2, 0.2, 2.0):
+        print("Successfully moved to x:0.2, y: 0.2, z: 0.2")
     else:
         print("Failed to move")
 

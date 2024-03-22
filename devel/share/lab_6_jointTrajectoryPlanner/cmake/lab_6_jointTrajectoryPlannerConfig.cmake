@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/lab_6_jointTrajectoryPlanner/share/lab_6_jointTrajectoryPlanner/cmake/lab_6_jointTrajectoryPlannerConfig.cmake
