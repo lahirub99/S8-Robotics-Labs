@@ -1,0 +1,5 @@
+Symlinking /home/lahiru/robotics/devel/lib/libcombine_grids.a
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/multirobot_map_merge.pc
+Symlinking /home/lahiru/robotics/devel/lib/multirobot_map_merge/map_merge
+Symlinking /home/lahiru/robotics/devel/share/multirobot_map_merge/cmake/multirobot_map_mergeConfig-version.cmake
+Symlinking /home/lahiru/robotics/devel/share/multirobot_map_merge/cmake/multirobot_map_mergeConfig.cmake

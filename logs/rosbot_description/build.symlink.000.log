@@ -1,0 +1,4 @@
+Symlinking /home/lahiru/robotics/devel/lib/python2.7/dist-packages/rosbot_description/__init__.py
+Symlinking /home/lahiru/robotics/devel/lib/pkgconfig/rosbot_description.pc
+Symlinking /home/lahiru/robotics/devel/share/rosbot_description/cmake/rosbot_descriptionConfig.cmake
+Symlinking /home/lahiru/robotics/devel/share/rosbot_description/cmake/rosbot_descriptionConfig-version.cmake

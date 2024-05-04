@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lahiru/robotics/devel/.private/rosbot_gazebo/setup.sh

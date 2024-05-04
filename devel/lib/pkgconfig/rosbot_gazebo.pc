@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/rosbot_gazebo/lib/pkgconfig/rosbot_gazebo.pc

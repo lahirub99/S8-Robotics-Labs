@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lahiru/robotics/devel/.private/multirobot_map_merge/setup.sh

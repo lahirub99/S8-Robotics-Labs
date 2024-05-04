@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/rosbot_gazebo/share/rosbot_gazebo/cmake/rosbot_gazeboConfig-version.cmake

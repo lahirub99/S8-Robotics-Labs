@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/rosbot_description/lib/python2.7/dist-packages/rosbot_description/__init__.py

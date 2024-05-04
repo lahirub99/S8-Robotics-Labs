@@ -1,0 +1,6 @@
+rosbot_description/src/rosbot_description
+/home/lahiru/robotics/devel/.private/rosbot_description/cmake.lock /home/lahiru/robotics/devel/./cmake.lock
+/home/lahiru/robotics/devel/.private/rosbot_description/lib/python2.7/dist-packages/rosbot_description/__init__.py /home/lahiru/robotics/devel/lib/python2.7/dist-packages/rosbot_description/__init__.py
+/home/lahiru/robotics/devel/.private/rosbot_description/lib/pkgconfig/rosbot_description.pc /home/lahiru/robotics/devel/lib/pkgconfig/rosbot_description.pc
+/home/lahiru/robotics/devel/.private/rosbot_description/share/rosbot_description/cmake/rosbot_descriptionConfig.cmake /home/lahiru/robotics/devel/share/rosbot_description/cmake/rosbot_descriptionConfig.cmake
+/home/lahiru/robotics/devel/.private/rosbot_description/share/rosbot_description/cmake/rosbot_descriptionConfig-version.cmake /home/lahiru/robotics/devel/share/rosbot_description/cmake/rosbot_descriptionConfig-version.cmake

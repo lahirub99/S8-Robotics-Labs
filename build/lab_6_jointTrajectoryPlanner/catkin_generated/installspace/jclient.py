@@ -52,17 +52,33 @@ def activate_actuators(state):
 
 if __name__ == "__main__":
 
+
+    positions = [[0,0,0,0,5], [-0.2,0,0,0,5], [-0.2,0.4,0,0,5], [0.2,-0.2,-0.4,0,5], [-0.4,0.2,0.2,0.2,5]]
+    
     if activate_actuators(True):
         print("Activation completed")
     else:
         print("Activation failed")
+    
+    for i, joints in enumerate(positions):
 
-    if move_in_joint_space(-0.4, 0.2, 0.2, 0.2, 5.0):
-        print("Successfully moved")
-    else:
-        print("Failed to move")
+        # if activate_actuators(True):
+        #     print("Activation completed")
+        # else:
+        #     print("Activation failed")
 
-    time.sleep(6.0)
+        if move_in_joint_space(joints[0], joints[1], joints[2], joints[3], joints[4]):
+            print("Successfully moved")
+        else:
+            print("Failed to move")
+
+        time.sleep(6.0)
+
+        # if activate_actuators(False):
+        #     print("Deactivation completed")
+        # else:
+        #     print("Deactivation failed")
+
 
     if activate_actuators(False):
         print("Deactivation completed")

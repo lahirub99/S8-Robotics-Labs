@@ -1,0 +1,1 @@
+/home/lahiru/robotics/devel/.private/rosbot_navigation/share/rosbot_navigation/cmake/rosbot_navigationConfig.cmake

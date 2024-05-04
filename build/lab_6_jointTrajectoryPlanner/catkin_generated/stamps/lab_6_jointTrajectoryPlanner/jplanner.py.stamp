@@ -120,6 +120,12 @@ def calculateTrajectory(request):
     a3, b3, c3, d3, e3, f3  = calculatePath(cjoint3, tjoint3, 0, 0, 0, 0, timePlan)
     a4, b4, c4, d4, e4, f4  = calculatePath(cjoint4, tjoint4, 0, 0, 0, 0, timePlan)
 
+    print("\nPolynomial coefficients")
+    print("Joint 1:\n", a1,"t^5 +", b1,"t^4 +", c1,"t^3 +", d1,"t^2 +", e1,"t +", f1)
+    print("Joint 2:\n", a2,"t^5 +", b2,"t^4 +", c2,"t^3 +", d2,"t^2 +", e2,"t +", f2)
+    print("Joint 3:\n", a3,"t^5 +", b3,"t^4 +", c3,"t^3 +", d3,"t^2 +", e3,"t +", f3)
+    print("Joint 4:\n", a4,"t^5 +", b4,"t^4 +", c4,"t^3 +", d4,"t^2 +", e4,"t +", f4)
+
     planned = True
 
     return SetJointPositionResponse(planned)
